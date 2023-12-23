@@ -1,4 +1,4 @@
-import { FormWrapper } from "./FromWrapper"
+import { FormWrapper } from "./FormWrapper"
 
 type AccountData = {
   email: string
